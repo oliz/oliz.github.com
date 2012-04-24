@@ -1,0 +1,8 @@
+
+http://olizax.github.com/tags.html
+http://olizax.github.com/atom.xml
+http://olizax.github.com/pages.html
+http://olizax.github.com/sitemap.txt
+http://olizax.github.com/archive.html
+http://olizax.github.com/categories.html
+http://olizax.github.com/index.html
